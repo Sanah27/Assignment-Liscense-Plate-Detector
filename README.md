@@ -1,4 +1,5 @@
 # Assignment-Liscense-Plate-Detector
+## By Syeda Yousra Nadeem, Laiba Saqib & Sana Iftikhar
 License Plate detector detects license plates in videos and pictures, breaks down the characters, trains the model and predicts the characters as per its training set.
 ### Steps:
 #### 1. Detection:
